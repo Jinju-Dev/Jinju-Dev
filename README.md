@@ -21,8 +21,8 @@
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   </div>
   <br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jinju-Dev&show_icons=true&theme=transparent" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinju-Dev&layout=compact" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=230&section=footer"/>
 </div>
